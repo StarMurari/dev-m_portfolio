@@ -65,7 +65,7 @@ const About = () => {
 
         <div className="space-y-6 text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
           <p className="about-text">
-            Hello! I'm a passionate full-stack developer with over 5 years of
+            Hello! I'm a passionate full-stack developer with over 1 years of
             experience building web applications. I love turning complex
             problems into simple, beautiful, and intuitive solutions.
           </p>
@@ -79,10 +79,7 @@ const About = () => {
           </p>
 
           <p className="about-text">
-            When I'm not coding, you can find me contributing to open-source
-            projects, reading tech blogs, or exploring new programming
-            languages. I'm also an advocate for clean code, best practices, and
-            continuous learning.
+            Outside of regular development work, I spend time building personal projects, exploring new features in the JavaScript ecosystem, and improving system design and code quality. I enjoy learning through hands-on experimentation and real-world problem solving.
           </p>
 
           {/* Interests */}
@@ -98,9 +95,9 @@ const About = () => {
                 'Web Development',
                 'UI/UX Design',
                 'Machine Learning',
-                'Open Source',
-                'Photography',
-                'Travel',
+                'React & Frontend Architecture',
+                'Node.js & APIs',
+                'Clean Code Practices'
               ].map((interest, index) => (
                 <motion.li
                   key={index}

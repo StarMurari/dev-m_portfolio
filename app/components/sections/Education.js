@@ -26,11 +26,11 @@ const educationData = [
     location: 'Saharsa, Bihar',
     period: '2017 - 2020',
     description:
-      "Focus on Web Development and Database Systems.",
+      "Focus on Web Development and Mobile App Development.",
     courses: [
       'Data Structures',
       'Web Development',
-      'Database Design',
+      'Database Management System',
       'Operating Systems',
     ],
   },
