@@ -1,8 +1,12 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Portfolio - Developer',
+  title: 'Murari Kumar | Full Stack Developer',
   description: 'Modern developer portfolio website',
+  icons: {
+    icon: '/images/kumar.jpg',
+    apple: '/images/kumar.jpg',
+  },
 }
 
 export default function RootLayout({ children }) {
